@@ -2,7 +2,7 @@ Hello everyone, I'm Aldiansyah Putra but you can call me Putra / Aldi.
 I'm a Mobile Developer with intermediate skill, and i also have a basic skill in UI/UX Designer.
 I also make some project with my friend :
 
-- Kas-Mini                             => (In Progress)
+- Point Of Sale app Kas-Mini                            => (In Progress)
 - Landing Page                         => (Done)
 - Expense Tracker Web-App with PHP     => (Done)
 - School Guests Web-App With PHP       => (Done).
