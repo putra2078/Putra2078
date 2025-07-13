@@ -14,7 +14,7 @@ This is my programming language skill :
 - SQL        =   Intermediate
 - Git        =   Intermediate
 - C#         =   Basic
-- JavaScript =   Basic
+- JavaScript =   Intermediate
 
 You can contact me by sending some DM's or email to :
 - Instagram   : @aldiansyah_putra_
