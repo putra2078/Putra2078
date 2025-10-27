@@ -1,20 +1,16 @@
-Hello everyone, I'm Aldiansyah Putra but you can call me Putra / Aldi.
-I'm a Mobile Developer with intermediate skill, and i also have a basic skill in UI/UX Designing.
-Here's also some projects that i've make with my friends :
+Hello, I'm Aldiansyah Putra, You can call me Putra/Aldi.
+I'm a Developer that loves to try anything not just on the surface,
+but also deeper until i understand and know how things works.
 
-- Point Of Sale app Kas-Mini                            => (Done)
-- Landing Page                         => (Done)
-- Expense Tracker Web-App with PHP     => (Done)
-- School Guests Web-App With PHP       => (Done).
+Things i do:
+- Create & Develop high quality web/apps
+- Cyber Security Enthusiast
+- Cloud Engineering
 
-This is my programming language skill :
-- Dart       =   Intermediate
-- CSS        =   Intermediate
-- PHP        =   Intermediate
-- SQL        =   Intermediate
-- Git        =   Intermediate
-- C#         =   Basic
-- JavaScript =   Intermediate
+Things i learn:
+- High Performance Real-time app development
+- DevOps Engineering
+- Foreign Language (日本 & English)
 
 You can contact me by sending some DM's or email to :
 - Instagram   : @aldiansyah_putra_
