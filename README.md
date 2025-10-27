@@ -22,29 +22,42 @@
 > I dive deep — not just to *make* things work,  
 > but to *understand why they work*.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&vCenter=true&width=600&lines=Hello%2C+World!;Accessing+Putra's+Terminal...;Backend+Engineer+%7C+Poet+%7C+Thinker;Coding+with+Philosophy+and+Caffeine.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFB2&vCenter=true&width=600&lines=Hello%2C+World!;Accessing+Putra's+Terminal...;Backend+Engineer+%7C+Poet+%7C+Thinker;Coding+with+Philosophy+and+Caffeine.)](https://git.io/typing-svg)
 
 ---
 
 ### ⚙️ systemctl --status=putra.service
 
-**Active modules:**
-- 🌐  Full-stack & Real-time App Development  
-- 🔐  Cyber Security Enthusiast  
-- ☁️  Cloud Engineering  
+**Skill Modules:**
+- 🖥️  OS: Windows 10 & Arch Linux  
+- 🧠  Most Used Language: Go, JS, Python, & Dart (Flutter)  
+- 💥  VM Crashes (Last Year): 12 Times  
+- ☕  Coffee Consumed (Last Year): 576 Cups  
 
-**Learning packages:**
-- ⚡  High Performance Realtime Systems  
-- 🛠️  DevOps & Infrastructure  
-- 🌏  日本語 & English  
+---
+
+### 📊 system-monitor --github-stats
+
+![Putra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Putra2078&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Putra's+System+Monitor+🧠&text_bold=true&hide_border=false&include_all_commits=true&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Putra2078&layout=compact&theme=tokyonight&custom_title=Most+Used+Languages+(Estimated)&langs_count=4)
+
+📈 **Custom Usage Overview:**
+```
+Dart    ██████████████████████████░░░░░░░░░ 43%
+Golang  ██████████████████░░░░░░░░░░░░░░░░░ 25%
+JS      ████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%
+Python  ██████████░░░░░░░░░░░░░░░░░░░░░░░░ 17%
+```
+
+> 🏆 **Rank:** A — *High Efficiency Node Detected*
 
 ---
 
 ### 😂 dmesg | grep "funny"
 ```
-🔥  Linux VM crashed 3 times this month.
+🔥  Linux VM crashed 12 times last year.
+☕  Consumed 576 cups of coffee.
 🥇  Favorite Bug: NullPointerException.
-☕  Uptime requires: 2 cups of coffee/day + 3 logic errors/day.
 ✨  Preferred language: The one that's simple & stupid.
 ```
 
@@ -55,12 +68,6 @@
 Instagram  → @aldiansyah_putra_
 Email      → nobuhara69@gmail.com
 ```
-
----
-
-### 📊 system-monitor --github-stats
-![Putra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldiansyahPutra&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiansyahPutra&layout=compact&theme=chartreuse-dark)
 
 ---
 
@@ -82,8 +89,3 @@ Email      → nobuhara69@gmail.com
 
 **[root@Putra ~]#** _logout_  
 ⭐ *"Just another dev walking between poetry and code."*
-
-<!---
-putra2078/putra2078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
