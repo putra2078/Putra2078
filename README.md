@@ -88,4 +88,4 @@ Email      → nobuhara69@gmail.com
 ---
 
 **[root@Putra ~]#** _logout_  
-⭐ *"Just another dev walking between poetry and code."*
+⭐ *"Just another dev walking with a cup of coffee and thinkpad laptop."*
