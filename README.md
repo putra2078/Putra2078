@@ -1,34 +1,87 @@
-Hello, I'm Aldiansyah Putra, You can call me Putra/Aldi.
-I'm a Developer that loves to try anything not just on the surface,
-but also deeper until i understand and know how things works.
+```bash
+# cat about_putra.txt
+```
+```
+          .--.  
+         |o_o |   <🐧>
+         |:_/ |      "Code is poetry written in logic."
+        //   \ \ 
+       (|     | ) 
+      /'\_   _/`\
+      \___)=(___/
+```
+> *Booting...*  
+> *Loading personality: Aldiansyah Putra*  
+> *Initializing philosophy kernel... done ✅*  
+> *Entering interactive shell...*
+---
 
-Things i do:
-- Create & Develop high quality web/apps
-- Cyber Security Enthusiast
-- Cloud Engineering
+### 🧩 whoami
+> **Aldiansyah Putra** — you can call me **Putra** or **Aldi**.  
+> Developer. Thinker. Cyber Enthusiast.  
+> I dive deep — not just to *make* things work,  
+> but to *understand why they work*.
 
-Things i learn:
-- High Performance Real-time app development
-- DevOps Engineering
-- Foreign Language (日本 & English)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&vCenter=true&width=600&lines=Hello%2C+World!;Accessing+Putra's+Terminal...;Backend+Engineer+%7C+Poet+%7C+Thinker;Coding+with+Philosophy+and+Caffeine.)](https://git.io/typing-svg)
 
-Funny things i do:
-- 🔥 My Linux VM Crash 3 Times this month.
+---
 
-- 🥇 Favorite Bug: NullPointerException.
+### ⚙️ systemctl --status=putra.service
 
-- ☕ Consumes: 2 cups of coffee/day & 3 Logic errors/day.
+**Active modules:**
+- 🌐  Full-stack & Real-time App Development  
+- 🔐  Cyber Security Enthusiast  
+- ☁️  Cloud Engineering  
 
-- ✨ Favorite language: The one that simple & stupid.
+**Learning packages:**
+- ⚡  High Performance Realtime Systems  
+- 🛠️  DevOps & Infrastructure  
+- 🌏  日本語 & English  
 
-You can contact me by sending some DM's or email to :
-- Instagram   : @aldiansyah_putra_
-- Email       : nobuhara69@gmail.com
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB2&width=435&lines=Halo!+Saya+Putra.;Backend+Engineer+%7C+Poet+%7C+Thinker.;Coding+with+Philosophy.)](https://git.io/typing-svg)
+### 😂 dmesg | grep "funny"
+```
+🔥  Linux VM crashed 3 times this month.
+🥇  Favorite Bug: NullPointerException.
+☕  Uptime requires: 2 cups of coffee/day + 3 logic errors/day.
+✨  Preferred language: The one that's simple & stupid.
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PutraDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PutraDev&layout=compact&theme=radical)
+---
+
+### 📡 networkctl --contact
+```bash
+Instagram  → @aldiansyah_putra_
+Email      → nobuhara69@gmail.com
+```
+
+---
+
+### 📊 system-monitor --github-stats
+![Putra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AldiansyahPutra&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiansyahPutra&layout=compact&theme=chartreuse-dark)
+
+---
+
+### 🐧 shutdown -r now
+> “In every crash, there’s a rebirth.  
+> In every bug, a perfection waiting to be compiled.”  
+
+```
+     .--.  
+    |o_o |   stay awake...
+    |:_/ |     stay curious...
+   //   \ \       stay human.
+  (|     | )
+ /'\_   _/`\
+ \___)=(___/
+```
+
+---
+
+**[root@Putra ~]#** _logout_  
+⭐ *"Just another dev walking between poetry and code."*
 
 <!---
 putra2078/putra2078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
