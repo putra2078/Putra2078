@@ -63,6 +63,10 @@ Python  ██████████░░░░░░░░░░░░░░
 
 ---
 
+![CI/CD Pipeline](https://github.com/putra2078/Traspac-Competition-Project/workflows/CI/CD%20Pipeline/badge.svg)
+
+---
+
 ### 📡 networkctl --contact
 ```bash
 Instagram  → @aldiansyah_putra_
